@@ -1,3 +1,3 @@
 [submodule "role-system"]
 	path = role-system
-	url = file:///E:/workspace/ai-role-system
+	url = https://github.com/tdyx87/ai-role-system.git
